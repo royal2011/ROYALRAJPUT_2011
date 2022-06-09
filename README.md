@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>ᏖᏂᏋ D3ᏉᎥᏝᏰᎧᏖ</b>
+  <b>ROYAL FEDRATION</b>
 </h1>
 
 <p align="center">
@@ -86,11 +86,11 @@
 - 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝚁𝚎𝚚𝚞𝚒𝚛𝚎𝚖𝚎𝚗𝚝𝚜.
 
 `pip install -U -r requirements.txt`
-- 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚎 D3𝚅𝙸𝙻𝙱𝙾𝚃 𝚂𝙴𝚂𝚂𝙸𝙾𝙽.
+- 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚎 ROYALFEDRATION 𝚂𝙴𝚂𝚂𝙸𝙾𝙽.
 
 `python d3vil_string.py`
 - 𝙲𝚛𝚎𝚊𝚝𝚎 config.py 𝚘𝚛 𝚛𝚎𝚗𝚊𝚖𝚎 ex_config.py 𝚝𝚘 config.py. 𝙵𝚒𝚕𝚕 𝙰𝚕𝚕 𝚃𝚑𝚎 𝚁𝚎𝚚𝚞𝚒𝚛𝚎𝚍 𝚅𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜.
-- 𝙵𝚒𝚗𝚊𝚕𝚕𝚢 𝚂𝚝𝚊𝚛𝚝 D3𝚅𝙸𝙻𝙱𝙾𝚃 𝙱𝚢
+- 𝙵𝚒𝚗𝚊𝚕𝚕𝚢 𝚂𝚝𝚊𝚛𝚝 ROYALFEDRATION 𝙱𝚢
 </details>
 <details>
 <summary>• 𝐕𝐀𝐑𝐈𝐀𝐁𝐋𝐄 •</summary>
@@ -134,7 +134,7 @@
 
 <h4 align="center">Copyright (C) 2021 <a href="https://github.com/TEAM-D3VIL">D3VILBOT</a></h4>
 
-Project [D3vilBot](https://github.com/TEAM-D3VIL/D3vilBot) is free software: you can redistribute it and/or modify
+Project [ROYALFEDRATIONt](https://github.com/TEAM-ROYAL/ROYALFEDRATION) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
